@@ -3,7 +3,7 @@ header {
   padding: 20px 0;
 }
 
-.caixa{
+.caixa {
     position: relative;
     width: 940px;
     margin: 0 auto;
@@ -72,4 +72,8 @@ footer{
     font-size: 13px;
     margin: 20px 0 0;
 
+}
+
+main {
+  width: 940px;
 }
